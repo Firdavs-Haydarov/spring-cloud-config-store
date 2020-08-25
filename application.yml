@@ -5,9 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Firdavs-Haydarov/spring-cloud-config
-          username: Firdavs-Haydarov
-          pasword: Xenomania1982
+          uri: https://github.com/Firdavs-Haydarov/spring-cloud-config-store
           search-paths:
            - '*service'
 
